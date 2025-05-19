@@ -1,6 +1,6 @@
 # VectorDB Demos
 
-1. Multi-modal product image search for an e-Commerce store with 40,000+ products
+# Application 1: Multi-modal product image search for an e-Commerce store with 40,000+ products
 
 # vectordb_uploader.py
 ## Overview
@@ -61,7 +61,7 @@ The application uses:
 - BytePlus VikingDB SDK
 
 
-2. Text Search Example
+# Application 2 : Text Search Example (Song search)
 
 # VectorDB Text Data Uploader
 ## Overview
